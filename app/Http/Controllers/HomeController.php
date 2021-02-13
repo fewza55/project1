@@ -18,4 +18,12 @@ class HomeController extends Controller
     {
         return view('contract');
     }
+    public function hello($name, $age)
+    {
+        $data = [
+            'name' => $name,
+            'age' => $age
+        ];
+        return view('hello', $data);
+    }
 }
