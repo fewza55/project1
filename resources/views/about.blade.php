@@ -8,6 +8,6 @@
 </head>
 <body>
     <a href="/">หน้าแรก</a> | <a href="/about">เกี่ยวกับ</a> | <a href="/contact">ติดต่อ</a>
-    <h1>08985298xx</h1>
+    <h1>ฟิว ซ่า</h1>
 </body>
 </html>
